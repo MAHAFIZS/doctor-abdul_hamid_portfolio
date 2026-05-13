@@ -20,7 +20,7 @@ contactForm.addEventListener("submit", (event) => {
   const phone = contactForm.querySelector('input[type="tel"]').value;
   const message = contactForm.querySelector("textarea").value;
 
-  const whatsappNumber = "8801861345336";
+  const whatsappNumber = "8801718345336";
 
   const whatsappMessage = `
 Appointment Request
